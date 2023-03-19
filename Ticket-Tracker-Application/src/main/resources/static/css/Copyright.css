@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+.copyRight {
+	background: rgba(250, 220, 250, 0.973);
+	color: #0a0606;
+	height: 45px;
+}
+
+.copyRight b {
+	text-align: center;
+}

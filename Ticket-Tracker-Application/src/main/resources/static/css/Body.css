@@ -1,0 +1,13 @@
+@charset "ISO-8859-1";
+
+.body {
+	background: rgba(187, 252, 243, 0.918);
+}
+
+.navbar-custom {
+	background: rgba(228, 142, 245, 0.918);
+}
+
+.navbar-custom a {
+	color: #0a0606;
+}
