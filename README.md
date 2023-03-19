@@ -7,9 +7,9 @@ Graded Assignment
 3.Web browser
 --------------------------------------------------
 Steps to run
-1.Open SQL Script which i attached in zip file
+1.Open SQL Script which i attached in RaR file
 2.Open MySQL, Create DataBase with name SpringMVCMavenTicketTrackerApplication.
-3.Download Zip File and unzip it.
+3.Download RaR File and Extract it.
 4.Open Eclipse IDE, Go to file, Import Existing Maven project.
 5.Open src/main/java  -->  com.ticketTracker package -->run TicketTrackerApplication
 6.Open web-browser type http://localhost:8081/ticket/list
