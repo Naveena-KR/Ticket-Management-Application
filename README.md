@@ -14,3 +14,6 @@ Steps to run
 5.Open src/main/java  -->  com.ticketTracker package -->run TicketTrackerApplication
 6.Open web-browser type http://localhost:8081/ticket/list
 7.Check the CRUD operations by inserting Records
+
+-----Video of CRUD operation, check below link
+https://drive.google.com/file/d/1AWLb5Ye3TVf2qUIeyt1Bn-shXMvzPdAe/view?usp=share_link
